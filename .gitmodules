@@ -19,3 +19,6 @@
 [submodule "mca203-CG"]
 	path = mca203-CG
 	url = https://github.com/jatin69/mca203-CG
+[submodule "mca301-algorithms"]
+	path = mca301-algorithms
+	url = https://github.com/jatin69/mca301-algorithms
