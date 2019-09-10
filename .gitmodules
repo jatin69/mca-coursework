@@ -1,0 +1,12 @@
+[submodule "mca101-OOPS"]
+	path = mca101-OOPS
+	url = https://github.com/jatin69/mca101-OOPS
+[submodule "mca102-SP"]
+	path = mca102-SP
+	url = https://github.com/jatin69/mca102-SP
+[submodule "mca104-CSA"]
+	path = mca104-CSA
+	url = https://github.com/jatin69/mca104-CSA
+[submodule "mca106-R"]
+	path = mca106-R
+	url = https://github.com/jatin69/mca106-R
