@@ -10,3 +10,12 @@
 [submodule "mca106-R"]
 	path = mca106-R
 	url = https://github.com/jatin69/mca106-R
+[submodule "mca201-DS"]
+	path = mca201-DS
+	url = https://github.com/jatin69/mca201-DS
+[submodule "mca201-DS-project"]
+	path = mca201-DS-project
+	url = https://github.com/jatin69/mca201-DS-project
+[submodule "mca203-CG"]
+	path = mca203-CG
+	url = https://github.com/jatin69/mca203-CG
