@@ -22,3 +22,24 @@
 [submodule "mca301-algorithms"]
 	path = mca301-algorithms
 	url = https://github.com/jatin69/mca301-algorithms
+[submodule "mca401-compiler-design"]
+	path = mca401-compiler-design
+	url = https://github.com/jatin69/mca401-compiler-design
+[submodule "mca402-IS"]
+	path = mca402-IS
+	url = https://github.com/jatin69/mca402-IS
+[submodule "mca403-UNP-question-bank"]
+	path = mca403-UNP-question-bank
+	url = https://github.com/jatin69/mca403-UNP-question-bank
+[submodule "mca406-ecom-question-bank"]
+	path = mca406-ecom-question-bank
+	url = https://github.com/jatin69/mca406-ecom-question-bank
+[submodule "mca403-UNP"]
+	path = mca403-UNP
+	url = https://github.com/jatin69/mca403-UNP
+[submodule "mca405-AOS"]
+	path = mca405-AOS
+	url = https://github.com/jatin69/mca405-AOS
+[submodule "mca406-ecom"]
+	path = mca406-ecom
+	url = https://github.com/jatin69/mca406-ecom
