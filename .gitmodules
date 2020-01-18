@@ -43,3 +43,12 @@
 [submodule "mca406-ecom"]
 	path = mca406-ecom
 	url = https://github.com/jatin69/mca406-ecom
+[submodule "mca505-artificial-intelligence"]
+	path = mca505-artificial-intelligence
+	url = https://github.com/jatin69/mca505-artificial-intelligence
+[submodule "mca506-dip"]
+	path = mca506-dip
+	url = https://github.com/jatin69/mca506-dip
+[submodule "mca507-neural-networks"]
+	path = mca507-neural-networks
+	url = https://github.com/jatin69/mca507-neural-networks

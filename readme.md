@@ -1,6 +1,9 @@
-# mca-codes
+# mca-coursework
 
 A subject wise collection of codes made during my masters degree (MCA)
+
+- subjects from semester 1 to 5 have been added
+- 6th semester is in form of a internship. so no subjects were undertaken.
 
 ## Dev
 
